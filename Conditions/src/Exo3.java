@@ -19,7 +19,7 @@ public class Exo3
 
 
 				
-				if(vitessevoiture>=1)
+				if(vitessevoiture>vitesselimite)
 					System.out.println("Ton fine est de 100$ ");
 				else if(vitessevoiture>20)
 					System.out.println("Ton fine est de 270$");

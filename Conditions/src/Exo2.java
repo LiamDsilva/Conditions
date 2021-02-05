@@ -18,6 +18,7 @@ public class Exo2
 			
 				System.out.println("How many eyes? ");
 				
+				//variables
 				int antenna = sc.nextInt();
 				int eyes = sc.nextInt();
 				
